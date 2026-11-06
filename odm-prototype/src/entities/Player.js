@@ -1,4 +1,5 @@
 
+import Phaser from "phaser";
 import { movementConfig as cfg } from "../config/movementConfig.js";
 
 export default class Player {
